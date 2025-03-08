@@ -15,4 +15,4 @@ game:GetService("StarterGui"):SetCore("SendNotification",{Title="BYPASS SKID SCR
 		end
 		return oldhmmnc(self, ...)
 	end)
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/kigredns/SanderXV4.2.2/refs/heads/main/sanderxvipSS.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/kigredns/SanderXV4.2.2/refs/heads/main/New..lua'))()
